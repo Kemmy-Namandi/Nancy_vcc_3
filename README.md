@@ -49,33 +49,6 @@ The Smart Clinical Watch ecosystem consists of three main components:
    - Stores patient data securely.
    - Provides analytics and reporting tools for healthcare providers.
 
----
-
-## Installation
-
-### Prerequisites
-- Node.js (v18 or later)
-- Git
-- Docker (optional for backend deployment)
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/smart-clinical-watch.git
-cd smart-clinical-watch
-```
-
-### Install Dependencies
-```bash
-npm install
-```
-
-### Run the Development Server
-```bash
-npm start
-```
-
----
-
 ## Usage
 1. Pair the Smart Clinical Watch with the mobile application using Bluetooth.
 2. Register the patient profile in the application.
@@ -122,18 +95,6 @@ Future planned features include:
 - Voice assistance for clinicians
 - Predictive health analytics
 
----
-
-## Credits
-Developed by the **Smart Clinical Technologies Team**.
-
-Special thanks to:
-- Biomedical engineers
-- Software developers
-- Clinical advisors
-- Healthcare partners
-
----
 
 ## License
 This project is licensed under the MIT License.
